@@ -1,0 +1,271 @@
+# ikelist - Technical Support Documentation
+
+## About ikelist
+
+ikelist is a powerful task and project management application designed to help individuals and teams organize their work efficiently. Built with React Native, ikelist offers a comprehensive solution for productivity management with advanced features and intuitive user interface.
+
+## Key Features
+
+### 📋 Task Management
+- **Eisenhower Matrix (Quadrant View)**: Organize tasks by importance and urgency
+- **Multiple Task Status**: Todo, Doing, Done, Check, Close
+- **Priority Levels**: Important-Urgent, Important-Not Urgent, Not Important-Urgent, Not Important-Not Urgent
+- **Drag & Drop**: Intuitive task management with multi-touch support
+- **Batch Operations**: Delete multiple tasks at once
+- **Due Date Management**: Track deadlines and overdue tasks
+
+### 📁 Project Management
+- **Project Organization**: Group tasks by projects for better organization
+- **Project Statistics**: Track project progress and completion rates
+- **Team Collaboration**: Role-based permissions (Admin, Manager, Developer, User)
+- **Project Limits**: Free plan supports 1 project, Premium supports up to 20 projects
+
+### 📊 Analytics & Statistics
+- **Task Statistics**: Comprehensive analysis of task completion rates
+- **Status Flow Analysis**: Track task transitions and identify bottlenecks
+- **Time Analysis**: Monitor overdue tasks and productivity trends
+- **Advanced Analytics**: Available for Premium subscribers
+
+### 👤 User Management & Permissions
+- **Role-Based Access Control**: Different permission levels for team members
+- **Membership Levels**: 
+  - 🆓 **Free**: Basic features with local storage
+  - 💎 **Premium**: Advanced analytics + cloud sync ($3/month)
+  - 👑 **VIP**: Enterprise-level features
+
+### ☁️ Data Management
+- **Local Storage**: Secure local data storage for free users
+- **Cloud Backup**: Automatic cloud synchronization for Premium users
+- **Multi-Device Sync**: Access your data across all devices (Premium feature)
+
+## Subscription Plans
+
+### Free Plan
+- Basic task and project management
+- 1 project limit
+- 10 tasks limit
+- Local data storage
+- Basic analytics
+- Quadrant view
+- Multi-touch zoom
+- Batch delete operations
+- Contains ads
+
+### Premium Plan ($3/month or $30/year)
+- All Free plan features
+- Up to 20 projects
+- Up to 200 tasks
+- Advanced analytics
+- Cloud data backup
+- Multi-device synchronization
+- Ad-free experience
+- Priority support
+
+## System Requirements
+
+### iOS
+- iOS 12.0 or later
+- iPhone, iPad, and iPod touch compatible
+- 50MB available storage space
+
+### Android
+- Android 6.0 (API level 23) or later
+- 50MB available storage space
+- ARM64 or x86_64 processor
+
+## Installation Guide
+
+### iOS (App Store)
+1. Open the App Store on your iOS device
+2. Search for "ikelist Task Manager"
+3. Tap "Get" to download and install
+4. Open the app and create your account
+
+### Android (Google Play Store)
+1. Open Google Play Store on your Android device
+2. Search for "ikelist Task Manager"
+3. Tap "Install" to download and install
+4. Open the app and create your account
+
+## Getting Started
+
+### First Time Setup
+1. **Create Account**: Sign up with your email address
+2. **Choose Plan**: Select Free or Premium plan
+3. **Create First Project**: Set up your first project
+4. **Add Tasks**: Start adding tasks to your project
+5. **Organize with Quadrants**: Use the Eisenhower Matrix to prioritize tasks
+
+### Basic Usage
+1. **Adding Tasks**: Tap the "+" button to create new tasks
+2. **Setting Priority**: Choose from four quadrant priorities
+3. **Managing Status**: Move tasks through different status stages
+4. **Project Organization**: Group related tasks under projects
+5. **Analytics**: View your productivity statistics in the Statistics tab
+
+## Troubleshooting
+
+### Common Issues
+
+#### App Won't Start
+**Symptoms**: App crashes on launch or shows blank screen
+**Solutions**:
+1. Force close the app and restart
+2. Restart your device
+3. Check for app updates in the App Store/Play Store
+4. Ensure you have sufficient storage space
+5. If problem persists, reinstall the app
+
+#### Subscription Issues
+**Symptoms**: Unable to purchase Premium subscription or features not unlocked
+**Solutions**:
+1. **Check Internet Connection**: Ensure stable internet connection
+2. **Verify Payment Method**: Check your payment method in device settings
+3. **Restore Purchases** (iOS): Go to Profile → Subscription → Restore Purchases
+4. **Clear App Cache** (Android): Settings → Apps → ikelist → Storage → Clear Cache
+5. **Contact Support**: If issues persist, contact our support team
+
+#### Data Sync Problems
+**Symptoms**: Data not syncing across devices (Premium users)
+**Solutions**:
+1. Check internet connection on all devices
+2. Ensure you're logged into the same account
+3. Force sync by pulling down on the main screen
+4. Log out and log back in
+5. Contact support if data loss occurs
+
+#### Performance Issues
+**Symptoms**: App running slowly or freezing
+**Solutions**:
+1. Close other running apps to free up memory
+2. Restart the app
+3. Restart your device
+4. Check available storage space
+5. Update to the latest app version
+
+### Error Codes
+
+#### E001: Network Connection Error
+- **Cause**: No internet connection or poor network
+- **Solution**: Check your internet connection and try again
+
+#### E002: Authentication Failed
+- **Cause**: Invalid login credentials or expired session
+- **Solution**: Log out and log back in with correct credentials
+
+#### E003: Subscription Verification Failed
+- **Cause**: Unable to verify subscription status
+- **Solution**: Check internet connection and restore purchases
+
+#### E004: Data Sync Error
+- **Cause**: Failed to synchronize data with cloud
+- **Solution**: Check internet connection and try manual sync
+
+## Privacy & Security
+
+### Data Protection
+- All user data is encrypted both in transit and at rest
+- Local data is stored securely on your device
+- Cloud data is protected with industry-standard encryption
+- We never share your personal data with third parties
+
+### Account Security
+- Use strong, unique passwords
+- Enable two-factor authentication when available
+- Log out from shared devices
+- Report suspicious activity immediately
+
+## Contact Support
+
+### Before Contacting Support
+Please try the troubleshooting steps above and gather the following information:
+- Device model and operating system version
+- App version number
+- Detailed description of the issue
+- Steps to reproduce the problem
+- Screenshots or error messages (if applicable)
+
+### Support Channels
+- **Email**: support@timoapp.com
+- **Response Time**: Within 24 hours for Premium users, 48 hours for Free users
+- **Priority Support**: Available for Premium subscribers
+
+### Bug Reports
+Help us improve ikelist by reporting bugs:
+1. Describe the issue in detail
+2. Include steps to reproduce
+3. Attach screenshots if helpful
+4. Mention your device and app version
+
+## Frequently Asked Questions (FAQ)
+
+### General Questions
+
+**Q: Is ikelist free to use?**
+A: Yes, ikelist offers a free plan with basic features. Premium features are available through subscription.
+
+**Q: Can I use ikelist offline?**
+A: Yes, all core features work offline. Data will sync when you reconnect to the internet (Premium users).
+
+**Q: How many devices can I use with one account?**
+A: Free users can use one device. Premium users can sync across unlimited devices.
+
+**Q: Can I export my data?**
+A: Yes, Premium users can export their data in various formats.
+
+### Subscription Questions
+
+**Q: How do I cancel my subscription?**
+A: Go to your device's subscription settings (iOS Settings → Apple ID → Subscriptions, or Google Play → Subscriptions).
+
+**Q: Will I lose my data if I downgrade to Free?**
+A: No, your data is preserved, but you'll be limited to Free plan restrictions.
+
+**Q: Can I get a refund?**
+A: Refunds are handled according to App Store/Play Store policies. Contact support for assistance.
+
+### Technical Questions
+
+**Q: Why can't I see my tasks on another device?**
+A: Cloud sync is a Premium feature. Upgrade to Premium to sync across devices.
+
+**Q: How do I backup my data?**
+A: Premium users have automatic cloud backup. Free users should manually export important data.
+
+**Q: Is my data secure?**
+A: Yes, we use industry-standard encryption and security practices to protect your data.
+
+## Version History & Updates
+
+### Latest Version Features
+- Enhanced task management with improved drag & drop
+- Better performance and stability
+- New analytics dashboard
+- Improved subscription management
+- Bug fixes and UI improvements
+
+### Upcoming Features
+- Team collaboration tools
+- Advanced reporting
+- Integration with popular productivity apps
+- Enhanced mobile widgets
+- Dark mode improvements
+
+## Legal Information
+
+### Terms of Service
+By using ikelist, you agree to our Terms of Service available at: [Terms URL]
+
+### Privacy Policy
+Our Privacy Policy explains how we collect, use, and protect your information: [Privacy URL]
+
+### License Information
+ikelist is proprietary software. All rights reserved.
+
+---
+
+**Last Updated**: December 2024
+**Document Version**: 1.0
+**App Version**: Latest
+
+For the most up-to-date information, please visit our website or contact our support team.
